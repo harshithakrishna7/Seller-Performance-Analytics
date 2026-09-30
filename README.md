@@ -124,6 +124,6 @@ documented in `Python/eda.ipynb` and `SQL/data_cleaning.sql`.
 
 ## Author
 
-Diksha Sehrawat — built as an applied data analytics project combining SQL,
+Harshitha Krishna — built as an applied data analytics project combining SQL,
 Python, and Power BI to demonstrate end-to-end analytical workflow, from raw
 data to business recommendations.
